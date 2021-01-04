@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e32a3be-728f-4a7e-93c9-1e0c78db7c82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../FireTMS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FireTMS copy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HERE examples" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Navigation Dagger" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NbpApp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Orange ATV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Orange TV commons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Orange wording" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/app/src/main/kotlin/com/example/flutter_app/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../iOS/First Flutter App/First Flutter App.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../iOS/First Flutter App/First Flutter App.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../iOS/First Flutter App/First Flutter App.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../iOS/First Flutter App/First Flutter App.xcodeproj/project.xcworkspace/xcuserdata/dawidpiechaczek.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../iOS/First Flutter App/First Flutter App.xcodeproj/xcuserdata/dawidpiechaczek.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../iOS/First Flutter App/First Flutter App/ContentView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../iOS/First Flutter App/First Flutter App/First_Flutter_AppApp.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../iOS/First Flutter App/First Flutter App/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../iOS/First Flutter App/First Flutter AppTests/First_Flutter_AppTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../iOS/First Flutter App/First Flutter AppTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../iOS/First Flutter App/First Flutter AppUITests/First_Flutter_AppUITests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../iOS/First Flutter App/First Flutter AppUITests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../private_key.pepk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/.buckconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/.flowconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/.watchmanconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/__tests__/App-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/_BUCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/build_defs.bzl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/debug/java/com/awesomeproject/ReactNativeFlipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/java/com/awesomeproject/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/java/com/awesomeproject/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProject-tvOS/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProject-tvOSTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProject.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProject.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProject.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProject.xcodeproj/xcshareddata/xcschemes/AwesomeProject-tvOS.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProject.xcodeproj/xcshareddata/xcschemes/AwesomeProject.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProject.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProject.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProject/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProject/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProject/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProject/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProject/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProjectTests/AwesomeProjectTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/AwesomeProjectTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AwesomeProject/metro.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/fabric.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/libs/HERE-sdk.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/dev/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/dev/res/mipmap-hdpi/firetms_ico_dev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/dev/res/mipmap-hdpi/firetms_ico_dev_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/dev/res/mipmap-mdpi/firetms_ico_dev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/dev/res/mipmap-mdpi/firetms_ico_dev_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/dev/res/mipmap-xhdpi/firetms_ico_dev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/dev/res/mipmap-xhdpi/firetms_ico_dev_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/dev/res/mipmap-xxhdpi/firetms_ico_dev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/dev/res/mipmap-xxhdpi/firetms_ico_dev_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/dev/res/mipmap-xxxhdpi/firetms_ico_dev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/dev/res/mipmap-xxxhdpi/firetms_ico_dev_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/dev/res/web_hi_res_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/dev/res/xml/file_paths.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/assets/FireTMS.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/assets/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/App.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/AwsApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/commands/MobileLocationCommand.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/commands/MobileLocationsCommand.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/commands/RegistrationCommand.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/commands/SendScanCommand.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/commands/VerificationCommand.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/location/LocationApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/location/LocationService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/location/LocationServiceImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/model/ServerVersionInfo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/order/OrderApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/order/OrderService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/order/OrderServiceImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/registration/RegistrationApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/registration/RegistrationService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/api/registration/RegistrationServiceImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/exceptions/CanNotCheckVersionException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/exceptions/CanNotLoadOrderException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/exceptions/CanNotNotifyForwarderException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/exceptions/CanNotRegisterException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/exceptions/CanNotSendOrderAttachmentException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/exceptions/CanNotUploadLocationsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/exceptions/CanNotVerifyException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/interactors/CheckAppInstanceUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/interactors/CheckAppVersionUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/interactors/LoadOrderUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/interactors/NotifyForwarderUseCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/interactors/RegisterAppInstanceUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/interactors/SaveOrderUseCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/interactors/SendRoutePointStatusUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/interactors/SendScanUseCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/interactors/UploadLocationUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/interactors/VerifyAppInstanceUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/AppInstanceRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/ApplicationInstance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/CargoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/LocationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/OrdersItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/RegistrationStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/RoutePointRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/SMSRetrieverApiListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/Scan.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/UploadedFile.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/VersionCheckingStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/dtos/AddressDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/dtos/CargoDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/dtos/ContactPersonDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/dtos/OrderDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/dtos/RoutePointDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/dtos/UnitLoadDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/Address.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/Cargo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/DataStatus.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/NotificationType.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/Order.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/OrderWithRoutePoints.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/RoutePoint.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/RoutePointType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/RoutePointWithCargos.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/UnitLoad.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/converter/DataStatusConverter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/converter/OrderStatusConverter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/converter/RoutePointStatusConverter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/converter/RoutePointTypeConverter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/entities/location/Location.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/utils/ApplicationInstanceGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/domain/model/utils/JoinString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/infrastructure/AppInstanceFromFileRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/infrastructure/CargoRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/infrastructure/LocationRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/infrastructure/OrderRepositoryImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/infrastructure/RoutePointRepositoryImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/infrastructure/dao/CargoDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/infrastructure/dao/LocationDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/infrastructure/dao/OrderDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/infrastructure/dao/RoutePointDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/infrastructure/database/AppDatabase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/viewmodel/ActivityRequest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/viewmodel/Resource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/common/viewmodel/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/di/AppComponent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/di/AppContextModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/di/AppModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/di/AwsApiServiceModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/di/BuildersModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/di/DatabaseModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/di/NetworkModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/di/RegistrationApiServiceModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/di/ViewModelFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/di/ViewModelKey.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/di/ViewModelModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/extension/RxExtension.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/extension/UiExtension.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/navigation/FragmentScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/navigation/MainNavigator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/navigation/NavigatorProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/MapActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/appinfo/AppInfoFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/appinfo/AppInfoModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/appinfo/AppInfoViewAction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/appinfo/AppInfoViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/appinfo/AppInfoViewState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/base/BaseActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/base/BaseAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/base/BaseAdapterItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/base/BaseAdapterItemDiffCallback.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/base/BaseFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/dialog/ChangeStatusDialog.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/dialog/OrderConfirmationDialog.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/dialog/SimpleDialog.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/dialog/SimpleDialogModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/drawer/DrawerFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/drawer/DrawerFragmentModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/drawer/DrawerFragmentViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/drawer/DrawerItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/drawer/DrawerItemModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/main/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/main/MainActivityModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/main/MainActivityViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/main/MainViewAction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/main/MainViewEffect.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/orderdetails/OrderDetailsFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/orderdetails/OrderDetailsFragmentModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/orderdetails/OrderDetailsFragmentViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/orderdetails/OrderDetailsViewAction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/orderdetails/OrderDetailsViewEffect.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/orderdetails/RoutePointListItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/orders/OrderListItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/orders/OrdersFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/orders/OrdersFragmentModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/orders/OrdersFragmentViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/orders/OrdersViewAction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/orders/OrdersViewState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/registration/RegistrationFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/registration/RegistrationFragmentModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/registration/RegistrationViewAction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/registration/RegistrationViewEffect.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/registration/RegistrationViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/routepoint/CargoListItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/routepoint/RoutePointViewAction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/routepoint/RoutePointViewEffect.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/routepoint/RoutePointWithCargosFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/routepoint/RoutePointWithCargosModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/routepoint/RoutePointWithCargosViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/scanner/ScannerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/scanner/ScannerModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/scanner/ScannerViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/scanner/ScannerViewModelFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/splash/SplashFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/splash/SplashFragmentModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/splash/SplashViewAction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/splash/SplashViewEffect.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/splash/SplashViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/verification/VerificationFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/verification/VerificationModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/verification/VerificationViewAction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/verification/VerificationViewEffect.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/screens/verification/VerificationViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/services/firebase/AppMessagingService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/services/location/GetLocationService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/services/location/LocationModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/services/location/RestartBackgroundLocationReceiver.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/services/location/UploadBackgroundLocationReceiver.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/services/location/UploadLocationService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/services/version/CheckVersionServiceImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/services/version/CheckVersionUtil.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/utils/AmazonS3Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/utils/FontUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/utils/PermissionCheck.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/utils/PowerUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/utils/ResourcesProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/utils/network/ConnectivityProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/utils/network/ConnectivityProviderBaseImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/utils/network/ConnectivityProviderImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/utils/network/ConnectivityProviderLegacyImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/firetms/driverapp/utils/widget/ProgressButton.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/anim/progress_fade_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/firetms_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_camera_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_camera_large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_cargo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_firetms_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_firetms_logo_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_loading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_loading_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_loading_storehouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_orders_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_place_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_placeholder_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_truck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_unloading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_unloading_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-hdpi/ic_unloading_storehouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/firetms_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_camera_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_camera_large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_cargo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_firetms_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_firetms_logo_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_loading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_loading_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_loading_storehouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_orders_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_place_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_placeholder_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_truck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_unloading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_unloading_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-mdpi/ic_unloading_storehouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/firetms_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_camera_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_camera_large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_cargo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_firetms_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_firetms_logo_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_loading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_loading_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_loading_storehouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_orders_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_place_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_placeholder_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_truck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_unloading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_unloading_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xhdpi/ic_unloading_storehouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/firetms_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_camera_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_camera_large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_cargo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_firetms_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_firetms_logo_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_loading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_loading_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_loading_storehouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_orders_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_place_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_placeholder_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_truck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_unloading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_unloading_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxhdpi/ic_unloading_storehouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/firetms_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_camera_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_camera_large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_cargo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_firetms_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_firetms_logo_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_loading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_loading_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_loading_storehouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_orders_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_placeholder_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_truck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_unloading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_unloading_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable-xxxhdpi/ic_unloading_storehouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable/button_border.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable/firetms_label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable/ic_firetms_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable/ic_no_orders.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable/ic_orders.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable/ic_pin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable/ic_placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/activity_map.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/activity_no_order.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/activity_scaner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/app_bar_order_with_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/cargo_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/fragment_app_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/fragment_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/fragment_orders_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/fragment_registration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/fragment_route_point_with_cargos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/fragment_route_points_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/fragment_simple_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/fragment_splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/fragment_verification.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/item_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/order_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/route_point_with_cargos_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/widget_progress_button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/menu/menu_toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-hdpi/firetms_ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-hdpi/firetms_ico_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-mdpi/firetms_ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-mdpi/firetms_ico_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-xhdpi/firetms_ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-xhdpi/firetms_ico_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-xxhdpi/firetms_ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-xxhdpi/firetms_ico_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-xxxhdpi/firetms_ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-xxxhdpi/firetms_ico_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values-cs/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values-de/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values-lt/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values-pl/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values-ro/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values-ru-rBY/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values-ru/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values-sk/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values-uk-rUA/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values-v21/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/web_hi_res_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/prod/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/prod/res/mipmap-hdpi/firetms_ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/prod/res/mipmap-hdpi/firetms_ico_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/prod/res/mipmap-mdpi/firetms_ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/prod/res/mipmap-mdpi/firetms_ico_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/prod/res/mipmap-xhdpi/firetms_ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/prod/res/mipmap-xhdpi/firetms_ico_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/prod/res/mipmap-xxhdpi/firetms_ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/prod/res/mipmap-xxhdpi/firetms_ico_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/prod/res/mipmap-xxxhdpi/firetms_ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/prod/res/mipmap-xxxhdpi/firetms_ico_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/prod/res/web_hi_res_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/prod/res/xml/file_paths.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/stage/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/stage/res/mipmap-hdpi/firetms_ico_circle_dev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/stage/res/mipmap-hdpi/firetms_ico_dev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/stage/res/mipmap-mdpi/firetms_ico_dev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/stage/res/mipmap-mdpi/firetms_ico_dev_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/stage/res/mipmap-xhdpi/firetms_ico_dev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/stage/res/mipmap-xhdpi/firetms_ico_dev_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/stage/res/mipmap-xxhdpi/firetms_ico_dev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/stage/res/mipmap-xxhdpi/firetms_ico_dev_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/stage/res/mipmap-xxxhdpi/firetms_ico_dev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/stage/res/mipmap-xxxhdpi/firetms_ico_dev_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/stage/res/web_hi_res_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/stage/res/xml/file_paths.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/test/java/com/firetms/driverapp/CheckVersionServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/src/test/java/com/firetms/driverapp/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../AwesomeProject/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../flutter_list/flutter_app/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../AwesomeProject/android/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../AwesomeProject/android/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../keystore/key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../keystore/passwords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_0_63_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_0_63_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@WNPNU19416202388]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1mHj592twQEfvc0feovXoI5AQ47" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="AwesomeProject.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e32a3be-728f-4a7e-93c9-1e0c78db7c82" name="Default Changelist" comment="" />
+      <created>1609157224742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609157224742</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
