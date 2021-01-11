@@ -3,12 +3,9 @@ import * as React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 
 import {
-  SafeAreaView,
   StyleSheet,
-  ScrollView,
   View,
   Text,
-  StatusBar,
 } from 'react-native';
 import {
   LearnMoreLinks,
@@ -25,10 +22,10 @@ function HomeScreen() {
   );
 }
 
-function InitScreen() {
+function InitScreen({navigation}) {
   return (
     <View style={styles.body}>
-    
+
       <View style={styles.sectionContainer}>
         <Text style={styles.sectionTitle}>Step One</Text>
         <Text style={styles.sectionDescription}>
@@ -44,7 +41,7 @@ function InitScreen() {
         </Text>
       </View>
       <View style={styles.sectionContainer}>
-        <Text style={styles.sectionTitle}>Learn More</Text>
+        <Text style={styles.sectionTitle} onPress={() => navigation.navigate('Home')}>Learn More</Text>
         <Text style={styles.sectionDescription}>
           Read the docs to discover what to do next:
     </Text>
@@ -59,15 +56,12 @@ const Stack = createStackNavigator();
 const App: () => React$Node = () => {
   return (
     <>
-   
-          <NavigationContainer>
-            <Stack.Navigator initialRouteName="Home">
-              <Stack.Screen name="Home" component={HomeScreen} options={{title: "Home Screen"}}/>
-              <Stack.Screen name="Init" component={InitScreen} />
-            </Stack.Navigator>
-          </NavigationContainer>
-    
-
+      <NavigationContainer>
+        <Stack.Navigator initialRouteName="Init">
+          <Stack.Screen name="Home" component={HomeScreen} options={{ title: "Home Screen" }} />
+          <Stack.Screen name="Init" component={InitScreen} />
+        </Stack.Navigator>
+      </NavigationContainer>
     </>
   );
 };
