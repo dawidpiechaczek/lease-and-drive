@@ -1,108 +1,74 @@
 import 'react-native-gesture-handler';
-import * as React from 'react';
+import { AppState } from 'react-native';
+import React, { createRef, useRef, useState, useEffect } from 'react';
+import HomeScreen from './screens/HomeScreen'
+import InitScreen from './screens/InitScreen'
+import SplashScreen from './screens/SplashScreen'
+import PinScreen from './screens/PinScreen'
 import { NavigationContainer } from '@react-navigation/native';
-
-import {
-  StyleSheet,
-  View,
-  Text,
-} from 'react-native';
-import {
-  LearnMoreLinks,
-  Colors,
-  DebugInstructions,
-} from 'react-native/Libraries/NewAppScreen';
 import { createStackNavigator } from '@react-navigation/stack';
-
-function HomeScreen() {
-  return (
-    <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-      <Text>Home Screen</Text>
-    </View>
-  );
-}
-
-function InitScreen({navigation}) {
-  return (
-    <View style={styles.body}>
-
-      <View style={styles.sectionContainer}>
-        <Text style={styles.sectionTitle}>Step One</Text>
-        <Text style={styles.sectionDescription}>
-          Edit <Text style={styles.highlight}>App.js</Text> to change this
-      screen and then come back to see your edits.
-    </Text>
-      </View>
-
-      <View style={styles.sectionContainer}>
-        <Text style={styles.sectionTitle}>Debug</Text>
-        <Text style={styles.sectionDescription}>
-          <DebugInstructions />
-        </Text>
-      </View>
-      <View style={styles.sectionContainer}>
-        <Text style={styles.sectionTitle} onPress={() => navigation.navigate('Home')}>Learn More</Text>
-        <Text style={styles.sectionDescription}>
-          Read the docs to discover what to do next:
-    </Text>
-      </View>
-      <LearnMoreLinks />
-    </View>
-  )
-}
+import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 const Stack = createStackNavigator();
 
 const App: () => React$Node = () => {
-  return (
-    <>
-      <NavigationContainer>
-        <Stack.Navigator initialRouteName="Init">
-          <Stack.Screen name="Home" component={HomeScreen} options={{ title: "Home Screen" }} />
-          <Stack.Screen name="Init" component={InitScreen} />
-        </Stack.Navigator>
-      </NavigationContainer>
-    </>
-  );
+  const appState = useRef(AppState.currentState);
+  const [appStateVisible, setAppStateVisible] = useState(appState.current);
+  const [showPinScreen, setPinScreenShown] = useState(true)
+  const [isLoading, setIsLoading] = useState(true);
+
+  useEffect(() => {
+    AppState.addEventListener("change", _handleAppStateChange);
+
+    return () => {
+      AppState.removeEventListener("change", _handleAppStateChange);
+    };
+  }, []);
+
+  const _handleAppStateChange = (nextAppState) => {
+    if (appState.current.match(/inactive|background/) && nextAppState === "active") {
+      console.log("App has come to the foreground!");
+      setPinScreenShown(true)
+    } else {
+      setPinScreenShown(false)
+    }
+
+    appState.current = nextAppState;
+    setAppStateVisible(appState.current);
+    console.log("AppState", appState.current);
+  };
+
+  if (isLoading) {
+    setTimeout(() => { setIsLoading(false) }, 1500);
+    return <SplashScreen />;
+  } else {
+    if (showPinScreen) {
+      navigate("Pin")
+    }
+    return (
+      <>
+        <SafeAreaProvider>
+          <NavigationContainer ref={navigationRef}>
+            <Stack.Navigator initialRouteName="Init">
+              <Stack.Screen name="Home" component={HomeScreen} options={{ title: "Home Screen" }} />
+              <Stack.Screen name="Init" component={InitScreen} />
+              <Stack.Screen name="Pin" component={PinScreen} options={{ headerShown: false }} />
+            </Stack.Navigator>
+          </NavigationContainer>
+        </SafeAreaProvider>
+      </>
+    );
+  }
 };
 
-const styles = StyleSheet.create({
-  scrollView: {
-    backgroundColor: Colors.lighter,
-  },
-  engine: {
-    position: 'absolute',
-    right: 0,
-  },
-  body: {
-    backgroundColor: Colors.white,
-  },
-  sectionContainer: {
-    marginTop: 32,
-    paddingHorizontal: 24,
-  },
-  sectionTitle: {
-    fontSize: 24,
-    fontWeight: '600',
-    color: Colors.black,
-  },
-  sectionDescription: {
-    marginTop: 8,
-    fontSize: 18,
-    fontWeight: '400',
-    color: Colors.dark,
-  },
-  highlight: {
-    fontWeight: '700',
-  },
-  footer: {
-    color: Colors.dark,
-    fontSize: 12,
-    fontWeight: '600',
-    padding: 4,
-    paddingRight: 12,
-    textAlign: 'right',
-  },
-});
+export const navigationRef = createRef();
+
+export function navigate(name, params) {
+  navigationRef.current?.navigate(name, params);
+}
+
+export function preventBack(){
+  navigation.addListener('beforeRemove', (e) => { e.preventDefault(); })
+}
 
 export default App;
